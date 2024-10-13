@@ -23,4 +23,4 @@ Si deseas profundizar en el proyecto, también puedes encontrar los siguientes a
 
 - **Excel**: [Dataset.xlsx](ruta_al_archivo)
 - **Archivo de Power BI (.pbix)**: [Documento BI.pbix](ruta_al_archivo)
-- **Vista Previa del Dashboard**: [Imagen Principal](ruta_al_archivo)
+- **Vista Previa del Dashboard**: [Imagen Principal](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Imagen%20Principal.png)
