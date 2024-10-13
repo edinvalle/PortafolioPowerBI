@@ -1,11 +1,17 @@
-# Portafolio_powerBI
-Quiero compartirles que recientemente completé un proyecto en Power BI, el cual desarrollé practicando por mi cuenta. Utilicé una base de datos descargada en la cuenta de Tio Tech y seguí su guía para crear un dashboard para una tienda de celulares, que analiza el rendimiento de ventas por empleado. Algunas de las métricas clave que incluye son:
-
-📊 Ventas por empleado: Muestra cuántas ventas ha realizado cada empleado.
-📈 Porcentaje de ventas: Indica el porcentaje total de ventas que corresponde a cada empleado.
-🔢 Unidades vendidas: Desglosa el número de unidades vendidas por cada empleado.
-📦 Productos vendidos: Identifica los diferentes productos que ha vendido cada empleado.
-
-Además, el dashboard permite segmentar por vendedor, facilitando la toma de decisiones estratégicas con una visión clara del desempeño de cada miembro del equipo de ventas. ¡Emocionado por seguir aprendiendo y aplicando mis habilidades en Power BI! 🚀
+# Análisis de Rendimiento de Ventas por Empleado en Power BI
+## Descripción del Proyecto
+Este proyecto fue desarrollado utilizando Power BI, con el propósito de analizar el rendimiento de ventas de una tienda de celulares. Utilicé una base de datos proporcionada por Tio Tech y seguí su guía para crear un dashboard interactivo que facilita la toma de decisiones estratégicas al desglosar métricas clave sobre las ventas por empleado.
+## Funcionalidades del Dashboard:
+Ventas por Empleado: Visualiza cuántas ventas ha realizado cada empleado durante un período de tiempo.
+Porcentaje de Ventas: Muestra el porcentaje total de ventas que representa cada empleado.
+Unidades Vendidas: Desglosa el número de unidades vendidas por cada empleado.
+Productos Vendidos: Indica qué productos específicos ha vendido cada empleado.
+## Características Adicionales:
+Segmentación por Vendedor: La capacidad de filtrar y segmentar el rendimiento por vendedor permite profundizar en el análisis individual y tomar decisiones más personalizadas.
+## Tecnologías Utilizadas:
+Power BI: Herramienta utilizada para crear visualizaciones interactivas y dashboards.
+Base de Datos: Descargada desde Tio Tech, un recurso de aprendizaje utilizado para el desarrollo de este proyecto.
+## Visualización del Proyecto
+Puedes ver el dashboard interactivo en el siguiente enlace:
 
 <iframe title="Primer proyecto" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
