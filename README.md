@@ -16,7 +16,10 @@ Base de Datos: Descargada desde Tio Tech, un recurso de aprendizaje utilizado pa
 ## Visualización del Proyecto
 Puedes ver el dashboard interactivo en el siguiente enlace:
 
-"https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+[ENLACE PARA NEVEGAR](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
+
+
+" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Archivos Adicionales
 Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
