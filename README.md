@@ -10,16 +10,13 @@ Este proyecto fue desarrollado utilizando Power BI, con el propósito de analiza
 
 ## Características Adicionales:
 Segmentación por Vendedor: La capacidad de filtrar y segmentar el rendimiento por vendedor permite profundizar en el análisis individual y tomar decisiones más personalizadas.
+
 ## Tecnologías Utilizadas:
 Power BI: Herramienta utilizada para crear visualizaciones interactivas y dashboards.
 Base de Datos: Descargada desde Tio Tech, un recurso de aprendizaje utilizado para el desarrollo de este proyecto.
+
 ## Visualización del Proyecto
-Puedes ver el dashboard interactivo en el siguiente enlace:
-
-[ENLACE PARA NEVEGAR](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
-
-
-" frameborder="0" allowFullScreen="true"></iframe>
+Puedes ver el dashboard interactivo en el siguiente enlace: [ENLACE PARA NEVEGAR](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
 
 ## Archivos Adicionales
 Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
