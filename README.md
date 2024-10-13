@@ -16,7 +16,7 @@ Power BI: Herramienta utilizada para crear visualizaciones interactivas y dashbo
 Base de Datos: Descargada desde Tio Tech, un recurso de aprendizaje utilizado para el desarrollo de este proyecto.
 
 ## Visualización del Proyecto
-Puedes ver el dashboard interactivo en el siguiente enlace: [ENLACE PARA NEVEGAR](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
+Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIVO](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
 
 ## Archivos Adicionales
 Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
