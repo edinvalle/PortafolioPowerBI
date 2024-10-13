@@ -19,6 +19,6 @@ Puedes ver el dashboard interactivo en el siguiente enlace:
 ## Archivos Adicionales
 Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
 
-Excel: Dataset.xlsx
-Archivo de Power BI (.pbix): Documento BI.pbix
-Vista Previa del Dashboard: Imagen Principal
+*Excel: Dataset.xlsx
+*Archivo de Power BI (.pbix): Documento BI.pbix
+*Vista Previa del Dashboard: Imagen Principal
