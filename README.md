@@ -15,3 +15,9 @@ Base de Datos: Descargada desde Tio Tech, un recurso de aprendizaje utilizado pa
 Puedes ver el dashboard interactivo en el siguiente enlace:
 
 <iframe title="Primer proyecto" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+## Archivos Adicionales
+Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
+Excel: Dataset.xlsx
+Archivo de Power BI (.pbix): Documento BI.pbix
+Vista Previa del Dashboard: Imagen Principal
