@@ -2,10 +2,10 @@
 ## Descripción del Proyecto
 Este proyecto fue desarrollado utilizando Power BI, con el propósito de analizar el rendimiento de ventas de una tienda de celulares. Utilicé una base de datos proporcionada por Tio Tech y seguí su guía para crear un dashboard interactivo que facilita la toma de decisiones estratégicas al desglosar métricas clave sobre las ventas por empleado.
 ## Funcionalidades del Dashboard:
-Ventas por Empleado: Visualiza cuántas ventas ha realizado cada empleado durante un período de tiempo.
-Porcentaje de Ventas: Muestra el porcentaje total de ventas que representa cada empleado.
-Unidades Vendidas: Desglosa el número de unidades vendidas por cada empleado.
-Productos Vendidos: Indica qué productos específicos ha vendido cada empleado.
+**Ventas por Empleado**: Visualiza cuántas ventas ha realizado cada empleado durante un período de tiempo.
+**Porcentaje de Ventas**: Muestra el porcentaje total de ventas que representa cada empleado.
+**Unidades Vendidas**: Desglosa el número de unidades vendidas por cada empleado.
+**Productos Vendidos**: Indica qué productos específicos ha vendido cada empleado.
 ## Características Adicionales:
 Segmentación por Vendedor: La capacidad de filtrar y segmentar el rendimiento por vendedor permite profundizar en el análisis individual y tomar decisiones más personalizadas.
 ## Tecnologías Utilizadas:
