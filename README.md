@@ -21,6 +21,6 @@ Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIV
 ## Archivos Adicionales
 Si deseas profundizar en el proyecto, también puedes encontrar los siguientes archivos adjuntos:
 
-- **Excel**: [Dataset.xlsx](ruta_al_archivo)
-- **Archivo de Power BI (.pbix)**: [Documento BI.pbix](Documento BI.pbix)
+- **Excel**: [Dataset.xlsx](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Dataset.xlsx )
+- **Archivo de Power BI (.pbix)**: [Documento BI.pbix](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Documento%20BI.pbix)
 - **Vista Previa del Dashboard**: [Imagen Principal](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Imagen%20Principal.png)
