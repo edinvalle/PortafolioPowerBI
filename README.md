@@ -1,7 +1,5 @@
 <div align="center">
-
 # Proyectos de Business Intelligence con Power BI
-
 </div>
  
 Este repositorio fue creado para proyectos de Business Intelligence (BI) personal utilizando Power BI. El objetivo es aplicar técnicas de análisis y visualización de datos a través de dashboards. Este proyecto demuestra el uso de herramientas y métodos de BI para la toma de decisiones estratégicas, ofreciendo un enfoque práctico y de entrenamiento al análisis de datos. Aquí encontrarás varios proyectos y dashboards creados por mí.
