@@ -1,9 +1,9 @@
-# Análisis de Rendimiento de Ventas por Empleado en Power BI
-## Descripción del Proyecto
+# Proyectos de Business Intelligence con Power BI 
+
 Este repositorio fue creado para proyecto de Business Intelligence (BI) personal utilizando Power BI. El objetivo es aplicar técnicas de análisis y visualización de datos a través de dashboards. Este proyecto demuestra el uso de herramientas y métodos de BI para la toma de decisiones estratégicas, ofreciendo un enfoque práctico y de entrenamiento al análisis de datos. Aquí encontrarás varios proyectos y dashboards creados por mí.
 
-# Proyecto 1
-## Funcionalidades del Dashboard
+# Proyecto 1 
+## Análisis de Rendimiento de Ventas por Empleado en Power BI
 Este proyecto utiliza Power BI para crear dashboards interactivos que analizan el rendimiento de ventas. Incluye métricas como ventas por empleado, porcentaje de ventas, unidades vendidas y productos específicos vendidos. También permite segmentar por vendedor para análisis detallados.
 
 - **Ventas por Empleado**: Visualiza cuántas ventas ha realizado cada empleado durante un período de tiempo.
