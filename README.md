@@ -14,9 +14,9 @@ Este proyecto utiliza Power BI que analizan el rendimiento de ventas. Incluye m√
 Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIVO](https://app.powerbi.com/view?r=eyJrIjoiYWFkYjBhOWYtZjRjMy00ZTdiLWExMWItOTM5N2Q5OWZhNTIyIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
 
 ## Archivos 
-- **Excel**: [Dataset 1.xlsx](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Dataset.xlsx )
-- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Documento%20BI.pbix)
-- **Vista Previa del Dashboard**: [Imagen 1](https://github.com/edinvalle/Portafolio_powerBI/blob/main/Imagen%20Principal.png)
+- **Excel**: [Dataset 1.xlsx](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dataset%201.xlsx)
+- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Documento%201.pbix)
+- **Vista Previa del Dashboard**: [Imagen 1](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%201.png)
 
 ### Proyecto 2
 Actualmente trabajando en el siguiente proyecto
