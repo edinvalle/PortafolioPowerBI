@@ -24,3 +24,4 @@ Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIV
 # Proyecto 2
 Actualmente trabajando en el siguiente proyecto
 
+<iframe title="Customer_Data" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGFjNmY4ODMtYzM5MS00MDI5LWJhMjAtNmQzZTBmMzRmYTUzIiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
