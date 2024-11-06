@@ -18,7 +18,7 @@ Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIV
 - **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Documento%201.pbix)
 - **Vista Previa del Dashboard**:
 <div align="center">
-  <img src="https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%201.png" alt="Texto alternativo" width="500">
+  <img src="https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%201..png" alt="Texto alternativo" width="500">
 </div>
 
 # Proyecto 2
