@@ -29,8 +29,8 @@ El segundo proyecto de dashboard de Power BI se centra en la segmentación de cl
 Para ver el informe o dashboard interactivo detallado de datos de clientes, haz clic en el siguiente enlace: [PROYECTO INTERACTIVO](https://app.powerbi.com/view?r=eyJrIjoiZTI3YzVhNTAtMmI1MC00NTdjLWExMjgtODc4ZDJhMmVhZGQ4IiwidCI6IjBmNzg1NDlkLTNlZWMtNDNhZi1iNTZhLTZmN2IwNDJkNmM5YSIsImMiOjR9)
 
 ### Archivos 
-- **Excel**: [Dataset 1.xlsx](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dataset%202.xlsx)
-- **Archivo de Power BI (.pbix)**: [Dashboard  1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dashboard%20%202.pbix)
+- **Excel**: [Dataset 2.xlsx](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dataset%202.xlsx)
+- **Archivo de Power BI (.pbix)**: [Dashboard  2.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dashboard%20%202.pbix)
 - **Vista Previa del Dashboard**:
 <div align="center">
   <img src="https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%202.png" alt="Texto alternativo" width="500">
