@@ -15,7 +15,7 @@ Puedes ver el dashboard interactivo en el siguiente enlace: [PROYECTO INTERACTIV
 
 ### Archivos 
 - **Excel**: [Dataset 1.xlsx](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dataset%201.xlsx)
-- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Documento%201.pbix)
+- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dashboard%201.pbix)
 - **Vista Previa del Dashboard**:
 <div align="center">
   <img src="https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%201..png" alt="Texto alternativo" width="500">
@@ -30,7 +30,7 @@ Para ver el informe o dashboard interactivo detallado de datos de clientes, haz 
 
 ### Archivos 
 - **Excel**: [Dataset 1.xlsx](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dataset%202.xlsx)
-- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Documento%202.pbix)
+- **Archivo de Power BI (.pbix)**: [Documento 1.pbix](https://github.com/edinvalle/PortafolioPowerBI/blob/main/Dashboard%20%202.pbix)
 - **Vista Previa del Dashboard**:
 <div align="center">
   <img src="https://github.com/edinvalle/PortafolioPowerBI/blob/main/Imagen%202.png" alt="Texto alternativo" width="500">
